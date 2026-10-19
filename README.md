@@ -1,4 +1,7 @@
 # Projekt_pogladowy_Arkadiusz_Kozlowski
+
+<img width="1313" height="741" alt="image" src="https://github.com/user-attachments/assets/fe4b5594-065e-417f-87bb-20619f371d6e" />
+
 # Walmart Retail Sales Analysis - Power BI Dashboard
 
 ## 📌 O projekcie
