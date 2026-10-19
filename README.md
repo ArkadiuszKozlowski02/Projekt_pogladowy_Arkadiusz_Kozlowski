@@ -1,6 +1,6 @@
 # Projekt_pogladowy_Arkadiusz_Kozlowski
 
-<img width="1313" height="741" alt="image" src="https://github.com/user-attachments/assets/fe4b5594-065e-417f-87bb-20619f371d6e" />
+<img width="1299" height="741" alt="image" src="https://github.com/user-attachments/assets/45c0397b-8372-4f9a-b07b-8363fb97c4cd" />
 
 # Walmart Retail Sales Analysis - Power BI Dashboard
 
@@ -51,8 +51,9 @@ Utworzenie zestawu dynamicznych miar (Measures) dostosowujących się do konteks
 * **Wpływ świąt:** Dane potwierdzają zauważalną różnicę w średnich przychodach podczas tygodni oznaczonych jako świąteczne w porównaniu do standardowego okresu.
 * **Czynniki makro:** Zestawienie wskaźnika CPI ze sprzedażą na wykresie punktowym pozwala zaobserwować, jak zmiany inflacyjne przekładają się na skłonność konsumentów do zakupów.
 
-## 📂 Jak uruchomić projekt?
+## 📂 Struktura repozytorium
 
-1. Pobierz plik `Walmart_Sales_Analysis.pbix` z tego repozytorium.
-2. Otwórz plik za pomocą darmowej aplikacji **Power BI Desktop**.
-3. (Opcjonalnie) Odśwież dane i korzystaj z interaktywnych filtrów w prawym górnym rogu, aby analizować wyniki konkretnych sklepów.
+* **Walmart_Sales_Analysis.pbix – Główny plik modelu relacyjnego i raportu Power BI.
+
+* **Walmart_Sales.csv – Surowy zbiór danych pobrany z platformy Kaggle.
+
